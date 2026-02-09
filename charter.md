@@ -49,7 +49,7 @@ The committee will accomplish its purpose by:
 
 1. The TSC will comprise up to 7 members from the NumFOCUS project and its
    community ecosystem.
-2. Membership will reflect the NumFOCUS Diversity Statement by welcoming and
+2. Membership will reflect the [NumFOCUS Diversity Statement](https://numfocus.org/programs/diversity-inclusion) by welcoming and
    encouraging participation from people of all backgrounds and identities and
    promoting a culture of inclusion and respect.
 3. Members serve a two-year term, with the possibility of renewal for up to two
