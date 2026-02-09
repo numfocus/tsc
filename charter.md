@@ -132,3 +132,4 @@ For any questions and queries, the TSC members can be reached at
 # Document history
 
 - Approved by 5 / 0 / 0 vote at TSC meeting on Jan 14, 2026
+- TSC charter ratified and approved by 5 / 0 / 0 at NumFOCUS' Board of Directors meeting on Jan 27, 2026
