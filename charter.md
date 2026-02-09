@@ -6,9 +6,8 @@ author: Sanket Verma
 
 # Establishment
 
-The Technical Steering Committee (TSC) is established under the [NumFOCUS
-Dual-Governance
-Model](https://docs.google.com/document/d/1MreHFYiNNH_hHje-nXHQUXlGcw7zQQXAPh96HXIQBvU/edit?pli=1&tab=t.0)
+The Technical Steering Committee (TSC) is established under the
+[NumFOCUS Dual-Governance Model](https://docs.google.com/document/d/1MreHFYiNNH_hHje-nXHQUXlGcw7zQQXAPh96HXIQBvU/edit?pli=1&tab=t.0)
 as a standing committee. (Approved by the Board on May 22, 2024; last updated:
 Jun 7, 2024.)
 
@@ -49,9 +48,10 @@ The committee will accomplish its purpose by:
 
 1. The TSC will comprise up to 7 members from the NumFOCUS project and its
    community ecosystem.
-2. Membership will reflect the [NumFOCUS Diversity Statement](https://numfocus.org/programs/diversity-inclusion) by welcoming and
-   encouraging participation from people of all backgrounds and identities and
-   promoting a culture of inclusion and respect.
+2. Membership will reflect the
+   [NumFOCUS Diversity Statement](https://numfocus.org/programs/diversity-inclusion)
+   by welcoming and encouraging participation from people of all backgrounds
+   and identities and promoting a culture of inclusion and respect.
 3. Members serve a two-year term, with the possibility of renewal for up to two
    additional terms. An ideal target turnover rate of ~30–40% will be encouraged
    to strike a balance between continuity and fresh perspectives.
@@ -132,4 +132,5 @@ For any questions and queries, the TSC members can be reached at
 # Document history
 
 - Approved by 5 / 0 / 0 vote at TSC meeting on Jan 14, 2026
-- TSC charter ratified and approved by 5 / 0 / 0 at NumFOCUS' Board of Directors meeting on Jan 27, 2026
+- TSC charter ratified and approved by 5 / 0 / 0 at NumFOCUS' Board of
+  Directors meeting on Jan 27, 2026
