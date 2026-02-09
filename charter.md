@@ -28,10 +28,10 @@ The committee will accomplish its purpose by:
   for Project-facing infrastructure.
 - Reviewing and selecting sponsored and affiliated projects.
 - Overseeing technical committees and programs, including:
-- Infrastructure Committee
-- Affiliated Project Selection Committee
-- Small Development Grants Program
-- Security Committee
+ - Infrastructure Committee
+ - Affiliated Project Selection Committee
+ - Small Development Grants Program
+ - Security Committee
 - Review and provide input on the annual budget before submission to the
   Administrative Board.
 - Supporting fundraising efforts that sustain the technical mission of
